@@ -23,7 +23,7 @@ const DUMMY_DATA = [
 function AllMeetupsPage() {
   return (
     <section>
-      <h1>All Meetups</h1>
+      <h1>All saare Meetups</h1>
       <MeetupList meetups={DUMMY_DATA} />
     </section>
   );
